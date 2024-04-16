@@ -32,7 +32,7 @@ zget load cda0/zsh-tfenv
 Clone `zsh-tfenv` into your custom plugins repo and load as a plugin in your `.zshrc`
 
 ```shell
-git clone https://github.com/cda0/zsh-tfenv ~/.oh-my-zsh/custom/plugins/zsh-tfenv
+git clone https://github.com/cda0/zsh-tfenv $ZSH_CUSTOM/plugins/zsh-tfenv
 ```
 
 ```
